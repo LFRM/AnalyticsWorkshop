@@ -4,6 +4,12 @@
 
 # Required libraries
 
+install.packages("recommenderlab")
+install.packages("ggplot2")
+install.packages("data.table")
+install.packages("reshape2")
+
+
 library(recommenderlab)
 library(ggplot2)
 library(data.table)
